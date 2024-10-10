@@ -1,5 +1,8 @@
 # FdupesParser
 
+[![License X11](https://img.shields.io/badge/license-X11-blue.svg)](https://raw.githubusercontent.com/nishidayuya/fdupes_parser/master/LICENSE.txt)
+[![Gem Version](https://badge.fury.io/rb/fdupes_parser.svg)](https://rubygems.org/gems/fdupes_parser)
+
 ## Installation
 
 ```console
