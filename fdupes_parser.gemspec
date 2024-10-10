@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version = FdupesParser::VERSION
   spec.authors = ["Yuya.Nishida."]
 
+  spec.licenses = %w[X11]
   spec.summary = "A parser for fdupes(1) result"
   spec.homepage = "https://github.com/nishidayuya/fdupes_parser"
   spec.required_ruby_version = ">= 3.0.0"
